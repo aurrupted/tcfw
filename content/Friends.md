@@ -19,4 +19,4 @@ title: The Cool Friends
 ### [[Rin]]
 > Rin, otherwise known as "Mu" is the nicest human being in the group!!!
 ### [[Zereiou]]
-> 
+>  Zereiou (or Cody) likes flamefrags (Ig bro.)
