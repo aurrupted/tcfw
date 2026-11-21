@@ -3,34 +3,4 @@
 .content-meta {
   display: none;
 }
-
-/* Move the footer 'Edit Wiki' link to the top-right as a button */
-footer ul {
-  position: fixed;
-  top: 1rem;
-  right: 1.25rem;
-  z-index: 999;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-footer ul li a {
-  display: inline-block;
-  padding: 0.35rem 0.8rem;
-  font-size: 0.85rem;
-  font-weight: 600;
-  border: 1px solid var(--lightgray);
-  border-radius: 6px;
-  background-color: var(--light);
-  color: var(--darkgray);
-  text-decoration: none;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
-}
-
-footer ul li a:hover {
-  border-color: var(--secondary);
-  color: var(--secondary);
-}
-
 // put your custom CSS here!
