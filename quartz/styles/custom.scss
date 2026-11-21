@@ -51,33 +51,48 @@ footer ul li a:hover {
   }
 }
 
+
+
+
 /* Hide Graph View across the entire wiki */
 .graph {
   display: none !important;
 }
 
+
+
+
 /* Customize warning callout colors and icon */
+/* Force custom colors and icon on warning callouts */
 .callout[data-callout="warning"] {
-  --color: #000000 !important;
-  --border: #010101 !important;
-  --bg: #ffffff !important;
+  border: 1px solid #010101 !important;
+  background-color: #ffffff !important;
+  color: #000000 !important;
 }
 
-/* Hide the default warning triangle SVG */
+.callout[data-callout="warning"] .callout-title {
+  color: #000000 !important;
+}
+
+/* Hide default triangle icon */
 .callout[data-callout="warning"] .callout-icon svg {
   display: none !important;
 }
 
-/* Show your custom warning image */
+/* Display custom warningtarget.jpg icon */
 .callout[data-callout="warning"] .callout-icon {
-  display: inline-block;
-  width: 18px;
-  height: 18px;
-  background-image: url("/tcfw/content/Images/warningtarget.jpg"); /* Make sure the file extension (.png or .jpg) matches your file! */
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+  display: inline-block !important;
+  width: 20px !important;
+  height: 20px !important;
+  min-width: 20px !important;
+  background-image: url("/tcfw/Images/warningtarget.jpg") !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  border-radius: 3px;
 }
+
+
 
 
 /* Fandom-style character & lore infobox table */
