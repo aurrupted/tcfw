@@ -10,6 +10,8 @@ footer ul {
   top: 1rem;
   right: 1.25rem;
   z-index: 999;
+  display: flex;
+  gap: 0.5rem;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -17,9 +19,10 @@ footer ul {
 
 footer ul li a {
   display: inline-block;
-  padding: 0.35rem 0.8rem;
+  padding: 0.35rem 0.75rem;
   font-size: 0.85rem;
   font-weight: 600;
+  white-space: nowrap;
   border: 1px solid var(--lightgray);
   border-radius: 6px;
   background-color: var(--light);
@@ -33,20 +36,18 @@ footer ul li a:hover {
   color: var(--secondary);
 }
 
-/* Move to bottom-right floating button on mobile screens so it never overlaps the header */
+/* Mobile: neat rectangular button right below the top header bar */
 @media (max-width: 800px) {
   footer ul {
-    top: auto;
-    bottom: 1.25rem;
-    left: 50%;
-    transform: translateX(-50%);
-    display: flex; gap: 0.5rem;
+    position: static;
+    justify-content: center;
+    margin: 1rem auto;
   }
 
   footer ul li a {
-    padding: 0.5rem 0.9rem;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    padding: 0.35rem 0.7rem;
+    font-size: 0.8rem;
+    border-radius: 6px;
   }
 }
 
