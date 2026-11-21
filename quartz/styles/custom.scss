@@ -56,4 +56,29 @@ footer ul li a:hover {
   display: none !important;
 }
 
+/* Customize warning callout colors and icon */
+.callout[data-callout="warning"] {
+  --color: #000000;       /* Border & title text color (change to any hex code) */
+  --border: #010101;      /* Outer border color */
+  --bg: #ffffff;          /* Background fill color */
+}
+
+/* Replace the default warning triangle icon with a custom image or emoji */
+.callout[data-callout="warning"] .callout-icon {
+  background-image: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.callout[data-callout="warning"] .callout-icon::before {
+content: "";
+width: 18px;
+height: 18px;
+background-image: url("/tcfw/Images/warningtarget.png");
+background-size: contain;
+background-repeat: no-repeat;
+  
+}
+
 // put your custom CSS here!
