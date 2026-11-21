@@ -1,5 +1,6 @@
-- - -
-### Wiki Banner
+---
+title: Wiki Banner
+---
 `The main banner for the wiki`
 ![[wikibanner.jpg]]
 - - -
