@@ -1,6 +1,6 @@
-- - -
+---
 title:  Home Page
-- - -
+---
 ![[wikibanner.jpg]]
 - - -
 
