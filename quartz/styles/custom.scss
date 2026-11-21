@@ -53,7 +53,6 @@ footer ul li a:hover {
 
 
 
-
 /* Hide Graph View across the entire wiki */
 .graph {
   display: none !important;
@@ -61,34 +60,32 @@ footer ul li a:hover {
 
 
 
-
-/* Customize warning callout colors and icon */
-/* Force custom colors and icon on warning callouts */
+/* Custom black & white warning box for Quartz v5 */
 .callout[data-callout="warning"] {
   border: 1px solid #010101 !important;
   background-color: #ffffff !important;
   color: #000000 !important;
+  --color: #000000 !important;
 }
 
-.callout[data-callout="warning"] .callout-title {
+.callout[data-callout="warning"] .callout-title,
+.callout[data-callout="warning"] .callout-title-inner,
+.callout[data-callout="warning"] p {
   color: #000000 !important;
 }
 
-/* Hide default triangle icon */
-.callout[data-callout="warning"] .callout-icon svg {
-  display: none !important;
-}
-
-/* Display custom warningtarget.jpg icon */
+/* Override Quartz v5 mask-image triangle with your crosshair image */
 .callout[data-callout="warning"] .callout-icon {
-  display: inline-block !important;
-  width: 20px !important;
-  height: 20px !important;
-  min-width: 20px !important;
+  mask-image: none !important;
+  -webkit-mask-image: none !important;
+  background-color: transparent !important;
   background-image: url("/tcfw/Images/warningtarget.jpg") !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  min-width: 22px !important;
   border-radius: 3px;
 }
 
@@ -132,7 +129,8 @@ table.fandom-infobox td.infobox-image {
 
 table.fandom-infobox td.infobox-image img {
   max-width: 220px;
-  border-radius: 4px;
+  border-
+  radius: 4px;
   margin: 0 auto;
 }
 
