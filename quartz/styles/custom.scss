@@ -81,4 +81,68 @@ background-repeat: no-repeat;
   
 }
 
+/* Fandom-style character & lore infobox table */
+table.fandom-infobox {
+  float: right;
+  width: 270px;
+  margin: 0 0 1rem 1.5rem;
+  border-collapse: collapse;
+  border: 2px solid var(--secondary);
+  background-color: var(--light);
+  font-size: 0.85rem;
+}
+
+/* Top colored title header */
+table.fandom-infobox thead th {
+  background-color: var(--secondary);
+  color: #ffffff;
+  font-size: 1rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+/* Sub-section headers inside the table (e.g. "Biographical Info") */
+table.fandom-infobox th[colspan="2"] {
+  background-color: var(--lightgray);
+  color: var(--dark);
+  text-align: center;
+  padding: 0.35rem;
+  font-weight: 700;
+}
+
+/* Portrait image cell */
+table.fandom-infobox td.infobox-image {
+  text-align: center;
+  padding: 0.6rem;
+}
+
+table.fandom-infobox td.infobox-image img {
+  max-width: 220px;
+  border-radius: 4px;
+  margin: 0 auto;
+}
+
+/* Stat labels and values */
+table.fandom-infobox td {
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid var(--lightgray);
+  vertical-align: top;
+}
+
+table.fandom-infobox td:first-child {
+  font-weight: 700;
+  width: 40%;
+  color: var(--darkgray);
+}
+
+/* Stack full-width on mobile phones so text isn't squished */
+@media (max-width: 700px) {
+  table.fandom-infobox {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
+
+
 // put your custom CSS here!
