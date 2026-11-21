@@ -1,5 +1,6 @@
 ---
 title:  Home Page
+cssclasses: [no-meta]
 ---
 ![[wikibanner.jpg]]
 - - -
