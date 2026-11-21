@@ -1,3 +1,6 @@
 @use "./variables.scss" as *;
-
+/* Remove date and reading time across all wiki pages */
+.content-meta {
+  display: none;
+}
 // put your custom CSS here!
