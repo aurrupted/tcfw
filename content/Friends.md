@@ -1,8 +1,5 @@
 ---
 title: The Cool Friends
-.no-meta .content-meta {
-  display: none;
-}
 ---
 ![[thepeople.jpg]]
 *"The Cool Friends you've all been waiting for— All our friends that are currently in the server!"*
