@@ -8,7 +8,7 @@
     <tr>
       <td colspan="2" class="infobox-image">
 
-![[alexavatar.jpg]]
+![[alexavatar.png]]
 *Ario's Roblox Avatar*
 
 </td>
