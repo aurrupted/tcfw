@@ -120,3 +120,36 @@ table.fandom-infobox td:first-child {
     margin: 1rem 0;
   }
 }
+
+
+/* Custom black & white warning box for Quartz v5 */
+.callout[data-callout="warning"] {
+  border: 1px solid #010101 !important;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  --color: #000000 !important;
+  --border: #010101 !important;
+  --bg: #ffffff !important;
+  --callout-icon: url("/tcfw/Images/warningtarget.jpg") !important;
+}
+
+.callout[data-callout="warning"] .callout-title,
+.callout[data-callout="warning"] .callout-title-inner,
+.callout[data-callout="warning"] p {
+  color: #000000 !important;
+}
+
+/* Make sure your JPG shows in full color instead of being turned into a solid black silhouette by Quartz's mask */
+.callout[data-callout="warning"] .callout-icon {
+  mask-image: none !important;
+  -webkit-mask-image: none !important;
+  background-color: transparent !important;
+  background-image: var(--callout-icon) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  width: 24px !important;
+  height: 24px !important;
+  min-width: 24px !important;
+  display: inline-block !important;
+}
