@@ -1,5 +1,5 @@
 ---
-title: Home Pagea
+title: Home Page
 ---
 
 Return to the **[[index|Home Page]]**.
