@@ -51,4 +51,9 @@ footer ul li a:hover {
   }
 }
 
+/* Hide Graph View across the entire wiki */
+.graph {
+  display: none !important;
+}
+
 // put your custom CSS here!
