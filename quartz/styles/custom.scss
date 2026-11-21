@@ -122,22 +122,18 @@ table.fandom-infobox td:first-child {
 }
 
 
-/* Custom black & white warning box for Quartz v5 */
 .callout[data-callout="warning"] {
-  border: 1px solid #010101 !important;
+  border: 1px solid #ffffff !important;
   background-color: #000000 !important;
   color: #ffffff !important;
   --color: #ffffff !important;
-  --border: #ffffff !important;
-  --bg: #010101 !important;
 }
 
-.callout[data-callout="warning"] .callout-title,
 .callout[data-callout="warning"] .callout-title {
   display: flex !important;
-  align-items: center !important; /* Vertically centers "Work in Progress" with the crosshair */
-  font-size: 0.95rem !important;  /* Makes the title slightly smaller (try 0.9rem if you want it smaller) */
-  color: #ffffff !important;      /* Keep #ffffff for your dark box (or #000000 if light) */
+  align-items: center !important;
+  font-size: 0.95rem !important;
+  color: #ffffff !important;
 }
 
 .callout[data-callout="warning"] .callout-title-inner {
@@ -146,23 +142,7 @@ table.fandom-infobox td:first-child {
   color: #ffffff !important;
 }
 
-/* Hide whatever default icon Quartz puts in the callout */
-.callout[data-callout="warning"] .callout-icon,
-.callout[data-callout="warning"] .callout-title::before {
-  display: none !important;
-}
-
-.callout[data-callout="warning"] .callout-title::after {
-  content: "" !important;
-  order: -1 !important;
-  display: inline-block !important;
-  width: 40px !important;      /* Increase this */
-  height: 40px !important;     /* Match width */
-  min-width: 40px !important;  /* Match width */
-  margin-right: 0.65rem !important;
-  background-image: url("/tcfw/static/warningtarget.jpg") !important;
-  background-size: contain !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  border-radius: 3px;
+.callout[data-callout="warning"] .callout-content,
+.callout[data-callout="warning"] p {
+  color: #ffffff !important;
 }
