@@ -18,5 +18,9 @@ title: The Cool Friends
 > Riri, also known as "Wei," "Rui," and "Vivi;" an gorgeous artist, and might be the richest, and the group chat's secret millionaire.
 ### [[Rin]]
 > Rin, otherwise known as "Mu" is the nicest human being in the group!!!
+### [[Takamari]]
+> Takamari, the person who daydreams about having skills instead of actually practicing.
 ### [[Zereiou]]
 >  Zereiou (or Cody) likes flamefrags (Ig bro.)
+### [[Zetrilea]]
+> Zetri... at school 24/7
