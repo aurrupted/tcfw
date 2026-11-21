@@ -133,9 +133,16 @@ table.fandom-infobox td:first-child {
 }
 
 .callout[data-callout="warning"] .callout-title,
-.callout[data-callout="warning"] .callout-title-inner,
-.callout[data-callout="warning"] p {
-  color: #ffffff !important;
+.callout[data-callout="warning"] .callout-title {
+  display: flex !important;
+  align-items: center !important; /* Vertically centers "Work in Progress" with the crosshair */
+  font-size: 0.95rem !important;  /* Makes the title slightly smaller (try 0.9rem if you want it smaller) */
+  color: #ffffff !important;      /* Keep #ffffff for your dark box (or #000000 if light) */
+}
+
+.callout[data-callout="warning"] .callout-title-inner {
+  font-size: 0.95rem !important;
+  line-height: 1.2 !important;
 }
 
 /* Hide whatever default icon Quartz puts in the callout */
