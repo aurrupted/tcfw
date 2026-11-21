@@ -1,4 +1,4 @@
-#  The Cool Friends Wiki
+#  Home Page
 ![[wikibanner.jpg]]
 - - -
 
