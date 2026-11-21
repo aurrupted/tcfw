@@ -122,11 +122,14 @@ table.fandom-infobox td:first-child {
 }
 
 
+/* Custom black & white warning box for Quartz v5 */
 .callout[data-callout="warning"] {
   border: 1px solid #ffffff !important;
   background-color: #000000 !important;
   color: #ffffff !important;
   --color: #ffffff !important;
+  --border: #ffffff !important;
+  --bg: #000000 !important;
 }
 
 .callout[data-callout="warning"] .callout-title {
@@ -145,4 +148,26 @@ table.fandom-infobox td:first-child {
 .callout[data-callout="warning"] .callout-content,
 .callout[data-callout="warning"] p {
   color: #ffffff !important;
+}
+
+/* Hide default Quartz callout icon */
+.callout[data-callout="warning"] .callout-icon,
+.callout[data-callout="warning"] .callout-title::before {
+  display: none !important;
+}
+
+/* Custom crosshair image before title */
+.callout[data-callout="warning"] .callout-title::after {
+  content: "" !important;
+  order: -1 !important;
+  display: inline-block !important;
+  width: 38px !important;
+  height: 38px !important;
+  min-width: 38px !important;
+  margin-right: 0.65rem !important;
+  background-image: url("/tcfw/Images/warningtarget.jpg") !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  border-radius: 3px;
 }
