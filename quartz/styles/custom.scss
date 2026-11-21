@@ -58,20 +58,27 @@ footer ul li a:hover {
 
 /* Customize warning callout colors and icon */
 .callout[data-callout="warning"] {
-  --color: #000000;       /* Border & title text color (change to any hex code) */
-  --border: #010101;      /* Outer border color */
-  --bg: #ffffff;          /* Background fill color */
+  --color: #000000 !important;
+  --border: #010101 !important;
+  --bg: #ffffff !important;
 }
 
-.callout[data-callout="warning"] .callout-icon::before {
-content: "";
-width: 18px;
-height: 18px;
-background-image: url("/tcfw/content/Images/warningtarget.jpg");
-background-size: contain;
-background-repeat: no-repeat;
-  
+/* Hide the default warning triangle SVG */
+.callout[data-callout="warning"] .callout-icon svg {
+  display: none !important;
 }
+
+/* Show your custom warning image */
+.callout[data-callout="warning"] .callout-icon {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  background-image: url("/tcfw/Images/warningtarget.jpg"); /* Make sure the file extension (.png or .jpg) matches your file! */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 
 /* Fandom-style character & lore infobox table */
 table.fandom-infobox {
