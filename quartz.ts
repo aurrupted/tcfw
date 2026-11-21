@@ -1,20 +1,21 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
+import { h } from "preact"
 
 const config = await loadQuartzConfig()
 export default config
 
 const EditPageButton = (props: any) => {
   const filePath = props.fileData.filePath ?? ""
-  return (
-    <a
-      href={`https://github.com{filePath}`}
-      target="_blank"
-      rel="noopener noreferrer"
-      class="edit-page-btn"
-    >
-      Edit
-    </a>
+  return h(
+    "a",
+    {
+      href: `https://github.com{filePath}`,
+      target: "_blank",
+      rel: "noopener noreferrer",
+      class: "edit-page-btn",
+    },
+    "Edit Page",
   )
 }
 
