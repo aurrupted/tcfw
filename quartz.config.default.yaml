@@ -192,7 +192,7 @@ plugins:
     enabled: true
     options:
       links:
-        "Edit or Add Wiki Pages": "https://github.com/aurrupted/tcfw"
+        "Edit or Add Wiki Pages": "https://github.com/aurrupted/tcfw/tree/v5/content"
     layout:
       position: footer
       priority: 50
