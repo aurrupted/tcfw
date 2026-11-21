@@ -1,3 +1,8 @@
+---
+title: Roulette
+> [!Warning] Be Careful
+> This person is super awesome!
+---
 <table class="fandom-infobox">
   <thead>
     <tr>
