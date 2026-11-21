@@ -1,8 +1,10 @@
 ---
-title: Wiki Banner
+title: Image Gallery
 ---
+### Wiki Banner
 `The main banner for the wiki`
 ![[wikibanner.jpg]]
+
 - - -
 
 ### The People Banner
@@ -10,5 +12,3 @@ title: Wiki Banner
 ![[thepeople.jpg]]
 
 - - -
-
-![[Images.base]]
