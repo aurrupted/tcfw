@@ -3,7 +3,7 @@ title:  Home Page
 ---
 ![[wikibanner.jpg]]
 - - -
-> [!Warning] This Wikipedia is not yet finished, some pages may or may not work.
+> [!warning] This Wikipedia is not yet finished, some pages may or may not work.
 ### The Map
 * **[[Friends]]** — Fun (or not so fun) facts about ourselves!
 * **[[Quotes]]** — Interesting quotations from each friend.
