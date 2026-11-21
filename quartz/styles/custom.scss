@@ -73,21 +73,26 @@ footer ul li a:hover {
 
 /* Override Quartz v5 mask-image triangle with your crosshair image */
 .callout[data-callout="warning"] .callout-icon {
-  mask-image: none !important;
-  -webkit-mask-image: none !important;
-  background-color: transparent !important;
-  background-image: url("/tcfw/content/Images/warningtarget.jpg") !important;
-  background-size: contain !important;
-  background-repeat: no-repeat !important;
-  background-position: center !important;
+  display: inline-block !important;
+  flex: 0 0 22px !important;
   width: 22px !important;
   height: 22px !important;
   min-width: 22px !important;
+  margin-right: 0.5rem !important;
+  mask-image: none !important;
+  -webkit-mask-image: none !important;
+  background-color: transparent !important;
+  background-image: url("/tcfw/Images/warningtarget.jpg") !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
   border-radius: 3px;
 }
 
+.callout[data-callout="warning"] .callout-icon::before,
 .callout[data-callout="warning"] .callout-icon svg {
   display: none !important;
+  content: none !important;
 }
 
 /* Fandom-style character & lore infobox table */
