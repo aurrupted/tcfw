@@ -3,4 +3,49 @@
 .content-meta {
   display: none;
 }
+
+/* Top-right button on PC */
+footer ul {
+  position: fixed;
+  top: 1rem;
+  right: 1.25rem;
+  z-index: 999;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer ul li a {
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background-color: var(--light);
+  color: var(--darkgray);
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+}
+
+footer ul li a:hover {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}
+
+/* Move to bottom-right floating button on mobile screens so it never overlaps the header */
+@media (max-width: 800px) {
+  footer ul {
+    top: auto;
+    bottom: 1.25rem;
+    right: 1.25rem;
+  }
+
+  footer ul li a {
+    padding: 0.5rem 0.9rem;
+    border-radius: 999px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+
 // put your custom CSS here!
