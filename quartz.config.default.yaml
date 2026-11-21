@@ -244,6 +244,11 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: "@quartz-community/footer"
+  enabled: true
+  options:
+    links:
+      "Edit or Add Wiki Pages": "https://github.com"
 layout:
   groups:
     toolbar:
