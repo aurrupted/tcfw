@@ -63,14 +63,6 @@ footer ul li a:hover {
   --bg: #ffffff;          /* Background fill color */
 }
 
-/* Replace the default warning triangle icon with a custom image or emoji */
-.callout[data-callout="warning"] .callout-icon {
-  background-image: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .callout[data-callout="warning"] .callout-icon::before {
 content: "";
 width: 18px;
