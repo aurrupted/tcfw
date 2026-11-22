@@ -67,5 +67,6 @@ Did you know...
 - They will show signs if they are uncomfortable but will not say it directly.
 ## Stories
 Writes Psychological Horror, Sci-Fi, and Multiverses.
+
 [^1]: Aroace is short for aromantic asexual. It describes someone who experiences **little to no romantic attraction** and **little to no sexual attraction**.
 [^2]: NSFW is short for **Not Safe For Work**. It refers to topics that are or may be inappropriate in workplaces, schools, or any other settings. Typically used to describe sexually explicit topics.
