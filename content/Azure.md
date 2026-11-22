@@ -50,7 +50,7 @@ title: Azure
 > — Name
 
 ## Description
-Azure, also commonly known as Jessie, Eden, or by the nickname Tay, is a member of the Cool Friends alongside Roulette, Null, Vivi, Rin, Kora, Kio, and Zereiou. They're an absolute freak and extremely slow at times dont expect much from them.
+Azure, also commonly known as Jessie, Eden, or by the nickname Tay, is a member of the Cool Friends alongside Roulette, Null, Vivi, Rin, Kora, Kio, Takamari, Zetrilea, and Zereiou. They're an absolute freak and extremely slow at times dont expect much from them.
 ## Funfacts
 Did you know...
 - He accidentally ate sand before. 
