@@ -33,9 +33,17 @@ title: Alex
       <td>Status</td>
       <td>On Break</td>
     </tr>
+    </tr>
+    <tr>
+      <th colspan="2">Awareness</th>
+    </tr>
     <tr>
       <td>Disabilities</td>
       <td>Audhd, DID, Bipolar, ASD, C-PTSD, MDD, ED</td>
+    </tr>
+    <tr>
+      <td>Ilnesses</td>
+      <td>UTI</td>
     </tr>
     <tr>
       <th colspan="2">Links & Others</th>
