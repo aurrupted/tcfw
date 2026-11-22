@@ -53,20 +53,20 @@ title: Alex
 Alex, also known as “Rou(lette),” “Mend,” or “Ario,” is a nice person. They are selectively mute in real life.
 
 When talking to star, they request you to be patient.
-## Fun facts
+## Fun Facts
 Did you know that...
-They have eaten sand before.
-They have a pet rock.
-They love cats.
+- They have eaten sand before.
+- They have a pet rock.
+- They love cats.
 ## Boundaries
-Any nickname is fine
-Do not message them when they feel awful
-Do not yume[^1] with them unless you are [[Azure]] or any of their platonic partners.[^2]
+- Any nickname is fine
+- Do not message them when they feel awful
+- Do not yume[^1] with them unless you are [[Azure]] or any of their platonic partners.[^2]
 ## Stories
 **UPCOMING FANFIC:** On Ao3/Wattpad
 
-It wasn't always winter - Tax Duo[^3]
-Flower you left me - Odyssey Duo[^4]
+- It wasn't always winter - Tax Duo[^3]
+- Flower you left me - Odyssey Duo[^4]
 
 [^1]: A yumeship **(also called self-shipping)** is a fandom practice where a fan pairs themselves, a persona ("sona"), or an original character (OC) with a fictional character—often called a F/O (Fictional Other).
 [^2]:A platonic partner is someone with whom you share a deep, committed emotional bond **without** romantic or sexual involvement.
