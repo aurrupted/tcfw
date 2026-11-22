@@ -46,13 +46,14 @@ title: Takamari
   </tbody>
 </table>
 
-> " Being older doesn't make you any more wiser than a person younger."
+> "Being older doesn't make you any more wiser than a person younger."
 > — Takamari
 - - -
 ## Description
 > *"Halo! I am Takamari I'm overall a chill guy if you really get to know me. My favorite holiday is Halloween, and I know a lot of fandoms so I'm not afraid to talk about nerds stuff with people, also I am NOT A NERD I'm a geek and there a difference), I'm also into chess, boxing and archery."*
+
 Takamari is a fun, cheerful guy. They seldom appear in the group, but they are really nice if you get to know them. They love rock, rockpop, and jazz music. They also listen to Laufey, Weezer, Passengerprincess, and Hotfreaks.
-## Fun Facts
+## Fun 
 Did you know...
 - They've been to America two times.
 - They're Aroace.
