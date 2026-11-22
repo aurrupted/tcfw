@@ -42,7 +42,7 @@ title: Azure
       <td>None</td>
     </tr>
     <tr>
-      <td>Ilnesses</td>
+      <td>Illnesses</td>
       <td>IBS, Dermatitis</td>
     </tr>
     <tr>
