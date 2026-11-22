@@ -13,8 +13,8 @@ title: Azure
     <tr>
       <td colspan="2" class="infobox-image">
 
-![[avatar.png]]
-*@username or text*
+![[azureavatar.png]]
+*Azure's drawing*
 
 </td>
     </tr>
