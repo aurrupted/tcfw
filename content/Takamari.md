@@ -33,9 +33,17 @@ title: Takamari
       <td>Status</td>
       <td>Unknown</td>
     </tr>
+    </tr>
+    <tr>
+      <th colspan="2">Awareness</th>
+    </tr>
     <tr>
       <td>Disabilities</td>
       <td>None</td>
+    </tr>
+    <tr>
+      <td>Illnesses</td>
+      <td>Not Available</td>
     </tr>
     <tr>
       <th colspan="2">Links & Others</th>
