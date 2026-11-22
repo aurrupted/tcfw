@@ -8,7 +8,7 @@ Uploaded by @aurrupted.
 - - -
 
 ### The People Banner
-`The banner for `[[Friends]]
+The banner for [[Friends]]
 ![[thepeople.jpg]]
 Uploaded by @aurrupted.
 - - -
