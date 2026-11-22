@@ -33,8 +33,16 @@ title: Azure
       <td>Status</td>
       <td>Active</td>
     </tr>
+    </tr>
+    <tr>
+      <th colspan="2">Awareness</th>
+    </tr>
     <tr>
       <td>Disabilities</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Ilnesses</td>
       <td>IBS, Dermatitis</td>
     </tr>
     <tr>
