@@ -70,6 +70,7 @@ Did you know that...
 
 - It wasn't always winter - Tax Duo[^3]
 - Flower you left me - Odyssey Duo[^4]
+
 [^1]: A yumeship **(also called self-shipping)** is a fandom practice where a fan pairs themselves, a persona ("sona"), or an original character (OC) with a fictional character—often called a F/O (Fictional Other).
 [^2]:A platonic partner is someone with whom you share a deep, committed emotional bond **without** romantic or sexual involvement.
 [^3]: "Tax Duo" is a platonic pair name made by the Unstable Universe fandom to refer to the two friends "Wemmbu" and "Eggchan."
