@@ -42,7 +42,7 @@ title: Alex
       <td>Audhd, DID, Bipolar, ASD, C-PTSD, MDD, ED</td>
     </tr>
     <tr>
-      <td>Ilnesses</td>
+      <td>Illnesses</td>
       <td>UTI</td>
     </tr>
     <tr>
