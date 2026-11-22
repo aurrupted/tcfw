@@ -35,7 +35,7 @@ title: Azure
     </tr>
     <tr>
       <td>Disabilities</td>
-      <td>Not Available</td>
+      <td>IBS, Dermatitis</td>
     </tr>
     <tr>
       <th colspan="2">Links & Others</th>
