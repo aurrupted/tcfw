@@ -8,7 +8,11 @@ title: Image Gallery
 - - -
 
 ### The People Banner
-`The banner for` [[Friends]]
+`The banner for `[[Friends]]
 ![[thepeople.jpg]]
 
 - - -
+
+### Warning Icon
+`The icon for the warning callout.`
+![[warningtarget.jpg]]
