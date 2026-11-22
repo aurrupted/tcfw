@@ -52,3 +52,19 @@ title: Azure
 ## Description
 Azure, also commonly known as Jessie, Eden, or by the nickname Tay, is a member of the Cool Friends alongside Roulette, Null, Vivi, Rin, Kora, Kio, and Zereiou. They're an absolute freak and extremely slow at times dont expect much from them.
 ## Funfacts
+Did you know...
+- He accidentally ate sand before. 
+- He used to eat paper and crayons. 
+- Xe is an artist.
+- They're bad at explaining. Don't really trust them if they give out directions.
+- They sleep with plushies. 
+- He hates loud sounds and screaming
+- They used to have a bottle cap collection
+- Massive animal and insect lover (Especially felines, snails and beetles.)
+##BOUNDARIES:
+- Don't be weird
+- Doesn't mind yumeships[^1], just remember they have a partner.
+##STORIES:
+Character lore.
+
+[^1]: A yumeship **(also called self-shipping)** is a fandom practice where a fan pairs themselves, a persona ("sona"), or an original character (OC) with a fictional character—often called a F/O (Fictional Other). 
