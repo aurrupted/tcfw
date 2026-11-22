@@ -56,14 +56,16 @@ Takamari is a fun, cheerful guy. They seldom appear in the group, but they are r
 ## Fun 
 Did you know...
 - They've been to America two times.
-- They're Aroace.
+- They're Aroace[^1].
 - They don't practice their skills.
 - They want to have long hair but their parents don't let them.
 ## Boundaries
-- Do not talk about NSFW topics with/near them.
+- Do not talk about NSFW[^2] topics with/near them.
 - Do not call them names. 
 - Do not mock subjects they like.
 - Tell them if they did something bad.
 - They will show signs if they are uncomfortable but will not say it directly.
 ## Stories
-Writes psychological Horror, Sci-Fi, and Multiverses.
+Writes Psychological Horror, Sci-Fi, and Multiverses.
+[^1]: Aroace is short for aromantic asexual. It describes someone who experiences **little to no romantic attraction** and **little to no sexual attraction**.
+[^2]: NSFW is short for **Not Safe For Work**. It refers to topics that are or may be inappropriate in workplaces, schools, or any other settings. Typically used to describe sexually explicit topics.
