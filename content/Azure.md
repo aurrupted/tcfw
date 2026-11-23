@@ -63,7 +63,7 @@ title: Azure
 
 Azure, also commonly known as Jessie, Eden, or by the nickname Tay, is a member of the Cool Friends alongside Roulette, Null, Vivi, Rin, Kora, Kio, Takamari, Zetrilea, and Zereiou. They're an absolute freak and extremely slow at times dont expect much from them.
 
-Azure is a Polymind[^1].
+Azure is a Polymind[^1], see their list of minds[^2] in [[Azure's Minds]].
 ## Funfacts
 - - -
 Did you know...
@@ -78,10 +78,11 @@ Did you know...
 ## Boundaries
 - - -
 - Don't be weird
-- Doesn't mind yumeships[^2], just remember they have a partner.
+- Doesn't mind yumeships[^3], just remember they have a partner.
 ## Stories
 - - -
 Character lore.
 
 [^1]: A polymind is someone who has, or feel that they have two or more active personalities. See [[Polymind]] for more information.
-[^2]: A yumeship **(also called self-shipping)** is a fandom practice where a fan pairs themselves, a persona ("sona"), or an original character (OC) with a fictional character—often called a F/O (Fictional Other). 
+[^2]: Minds, are what Polyminds call their subpersonalities. See [[Polymind]] for more information.
+[^3]: A yumeship **(also called self-shipping)** is a fandom practice where a fan pairs themselves, a persona ("sona"), or an original character (OC) with a fictional character—often called a F/O (Fictional Other). 
