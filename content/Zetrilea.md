@@ -49,7 +49,7 @@ title: Zetrilea
     </tr>
     <tr>
       <td>Instagram</td>
-      <td>[z3tri.0_0](https://www.instagram.com/z3tri.0_0?fqnt=MWh0OXh0OHNiejc0dg==)</td>
+      <td>[@z3tri.0_0](https://www.instagram.com/z3tri.0_0?fqnt=MWh0OXh0OHNiejc0dg)</td>
     </tr>
   </tbody>
 </table>
