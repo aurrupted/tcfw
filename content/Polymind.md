@@ -3,7 +3,7 @@ title: Polymind
 ---
 - - -
 A Polymind is someone who has, or feel that they have two or more active personalities— They see their subpersonalities[^2] as distinct individuals. It is a self-identifiable term people use. 
-‎‎Polymindence comes in different ways, whether you feel you are plural, or you feel you are just one with multiple personalities, so long as you feel the term 'polymind' suits you, you may use it as you wish.[^1] 
+‎‎Polymindence comes in different ways, whether you feel you are plural, or you feel you are just one with multiple personalities. So long as you feel the term 'Polymind' suits you, you may use it as you wish.[^1] 
 
 <table class="fandom-infobox">
   <thead>
