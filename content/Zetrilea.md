@@ -49,7 +49,7 @@ title: Zetrilea
     </tr>
     <tr>
       <td>Instagram</td>
-      <td>[@z3tri.0_0](https://www.instagram.com/z3tri.0_0?fqnt=MWh0OXh0OHNiejc0dg)</td>
+      <td><a href=https://www.instagram.com/z3tri.0_0?fqnt=MWh0OXh0OHNiejc0dg==>@z3tri.0_0</a> </td>
     </tr>
   </tbody>
 </table>
@@ -66,9 +66,10 @@ They are currently on break, and barely appear in the group nowadays.
 - - -
 Did you know...
 - They spend around 9–10 hours ever weekday at school.
-- She plays Phighting.
-## Boundaries
-- - -
+- She plays Phighting[^1].
+## abilities- - -
 - Use your common sense
 ## Stories
 They do not have stories available.
+
+[^1]: Phighting is a Roblox game showcasing many different heroes with unique abilities that users can choose to use for the game.
