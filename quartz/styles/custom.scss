@@ -58,6 +58,9 @@ footer ul li a:hover {
 }
 
 
+
+
+
 /* Float the Quartz table wrapper so text wraps on the left */
 .table-container:has(table.fandom-infobox) {
   float: right;
@@ -135,6 +138,15 @@ table.fandom-infobox td:first-child {
     margin: 1rem 0;
   }
 }
+
+/* Keep horizontal dividers (---) next to the infobox instead of dropping below it */
+article hr {
+  clear: none !important;
+  width: auto !important;
+  overflow: hidden !important;
+}
+
+
 
 /* Custom black & white warning box for Quartz v5 */
 .callout[data-callout="warning"] {
