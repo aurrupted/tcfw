@@ -56,24 +56,28 @@ title: Alex
 
 > " Hi, I'm Rouity. I'm mentally unstable! "
 > — Roulette
-- - -
+
 ## Description
+- - -
 Alex, also known as “Rou(lette),” “Mend,” or “Ario,” is a nice person. They are selectively mute in real life.
 
 When talking to star, they request you to be patient.
-- - -
+
 ## Fun Facts
+- - -
 Did you know that...
 - They have eaten sand before.
 - They have a pet rock.
 - They love cats.
-- - -
+
 ## Boundaries
+- - -
 - Any nickname is fine
 - Do not message them when they feel awful
 - Do not yume[^1] with them unless you are [[Azure]] or any of their platonic partners.[^2]
-- - -
+
 ## Stories
+- - -
 **UPCOMING FANFIC:** On Ao3/Wattpad
 
 - It wasn't always winter - Tax Duo[^3]
