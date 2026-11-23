@@ -13,7 +13,7 @@ title:  Home Page
 * **[[Servers]]** — Links to our servers.
 * **[[Editing Tutorial]]** — A guide on how to edit pages on the wiki.
 
-Need a more precise map? Check out [[Navigation]].
+Need a more precise map? Check out **[[Navigation]]**.
 ### Wiki Rules & How to Contribute
 - - -
 1. **Don't delete** someone else's page—add a `> [!warning] Citation Needed` callout instead.
