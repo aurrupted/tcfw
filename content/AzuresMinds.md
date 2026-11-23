@@ -1,6 +1,7 @@
 ---
 title: Azure's Minds
 ---
+
 ---
 description: As a Polymind, Azure has various subpersonalities that are currently active. This page is dedicated to understand more about each and every one of their mind's personalities and responsibilities.
 ---
