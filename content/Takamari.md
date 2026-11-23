@@ -49,7 +49,7 @@ title: Takamari
       <th colspan="2">Links & Others</th>
     </tr>
     <tr>
-      <td>Boundaries</td>      <td>Unavailable</td>
+      <td>Boundaries</td>      <td>Not Available</td>
     </tr>
   </tbody>
 </table>
