@@ -58,12 +58,14 @@ title: Azure
 > — Azure
 
 ## Description
+- - -
 > *"Seen this angel?"*
 
 Azure, also commonly known as Jessie, Eden, or by the nickname Tay, is a member of the Cool Friends alongside Roulette, Null, Vivi, Rin, Kora, Kio, Takamari, Zetrilea, and Zereiou. They're an absolute freak and extremely slow at times dont expect much from them.
 
 Azure is a Polymind[^1].
 ## Funfacts
+- - -
 Did you know...
 - He accidentally ate sand before. 
 - He used to eat paper and crayons. 
@@ -74,9 +76,11 @@ Did you know...
 - They used to have a bottle cap collection
 - Massive animal and insect lover (Especially felines, snails and beetles.)
 ## Boundaries
+- - -
 - Don't be weird
 - Doesn't mind yumeships[^2], just remember they have a partner.
 ## Stories
+- - -
 Character lore.
 
 [^1]: A polymind is someone who has, or feel that they have two or more active personalities. See [[Polymind]] for more information.
