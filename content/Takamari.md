@@ -56,24 +56,28 @@ title: Takamari
 
 > "Being older doesn't make you any more wiser than a person younger."
 > — Takamari
-- - -
+
 ## Description
+- - -
 > *"Halo! I am Takamari I'm overall a chill guy if you really get to know me. My favorite holiday is Halloween, and I know a lot of fandoms so I'm not afraid to talk about nerds stuff with people, also I am NOT A NERD I'm a geek and there a difference), I'm also into chess, boxing and archery."*
 
 Takamari is a fun, cheerful guy. They seldom appear in the group, but they are really nice if you get to know them. They love rock, rockpop, and jazz music. They also listen to Laufey, Weezer, Passengerprincess, and Hotfreaks.
-## Fun 
+## Fun
+- - -
 Did you know...
 - They've been to America two times.
 - They're Aroace[^1].
 - They don't practice their skills.
 - They want to have long hair but their parents don't let them.
 ## Boundaries
+- - -
 - Do not talk about NSFW[^2] topics with/near them.
 - Do not call them names. 
 - Do not mock subjects they like.
 - Tell them if they did something bad.
 - They will show signs if they are uncomfortable but will not say it directly.
 ## Stories
+- - -
 Writes Psychological Horror, Sci-Fi, and Multiverses.
 
 [^1]: Aroace is short for aromantic asexual. It describes someone who experiences **little to no romantic attraction** and **little to no sexual attraction**.
