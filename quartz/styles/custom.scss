@@ -58,6 +58,14 @@ footer ul li a:hover {
 }
 
 
+/* Float the Quartz table wrapper so text wraps on the left */
+.table-container:has(table.fandom-infobox) {
+  float: right;
+  width: 270px;
+  margin: 0 0 1rem 1.5rem;
+  overflow-x: visible;
+}
+
 /* Fandom-style character & lore infobox table */
 table.fandom-infobox {
   float: right;
@@ -67,6 +75,12 @@ table.fandom-infobox {
   border: 2px solid var(--secondary);
   background-color: var(--light);
   font-size: 0.85rem;
+}
+
+.table-container:has(table.fandom-infobox) table.fandom-infobox {
+  float: none;
+  width: 100%;
+  margin: 0;
 }
 
 /* Top colored title header */
@@ -114,13 +128,13 @@ table.fandom-infobox td:first-child {
 
 /* Stack full-width on mobile phones so text isn't squished */
 @media (max-width: 700px) {
+  .table-container:has(table.fandom-infobox),
   table.fandom-infobox {
     float: none;
     width: 100%;
     margin: 1rem 0;
   }
 }
-
 
 /* Custom black & white warning box for Quartz v5 */
 .callout[data-callout="warning"] {
