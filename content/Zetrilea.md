@@ -1,0 +1,63 @@
+---
+title: Zetrilea
+---
+
+<table class="fandom-infobox">
+  <thead>
+    <tr>
+      <th colspan="2">Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" class="infobox-image">
+
+![[zetriavatar.png]]
+*@username or text*
+
+</td>
+    </tr>
+    <tr>
+      <th coqlspan="2">Basic Information</th>
+    </tr>
+        <tr>
+      <td>Aliases</td>
+      <td>Zetri, Zet, Zei, Jenissa</td>
+        </tr>
+    <tr>
+      <td>Pronouns</td>
+      <td>She/They</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>On Break</td>
+    </tr>
+    <tr>
+      <td>Disabilities</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>Illnesses</td>
+      <td>Not Available</td>
+    </tr>
+    <tr>
+      <th colspan="2">Links & Others</th>
+    </tr>
+    <tr>
+      <td>Boundaries</td>
+      <td>Not Available</td>
+    </tr>
+    <tr>
+      <td>Instagram</td>
+      <td>[z3tri.0_0](https://www.instagram.com/z3tri.0_0?fqnt=MWh0OXh0OHNiejc0dg==)</td>
+    </tr>
+  </tbody>
+</table>
+
+> "In an empty horizon where mortals fall, will you see what lies beyond the night?"
+> — Find Your Flame — Nulllscape
+
+## Description
+- - -
+Zetrilea is a kind and caring soul. She loves music and also love the hardest subject of all— Math. 
+They are currently on break, and barely appear in the group nowadays. Fun Fa
