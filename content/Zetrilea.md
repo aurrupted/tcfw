@@ -5,7 +5,7 @@ title: Zetrilea
 <table class="fandom-infobox">
   <thead>
     <tr>
-      <th colspan="2">Name</th>
+      <th colspan="2">Zetrilea</th>
     </tr>
   </thead>
   <tbody>
@@ -59,5 +59,16 @@ title: Zetrilea
 
 ## Description
 - - -
-Zetrilea is a kind and caring soul. She loves music and also love the hardest subject of all— Math. 
-They are currently on break, and barely appear in the group nowadays. Fun Fa
+Zetrilea is a kind and caring soul. She loves music and also love the hardest subject of all— Math. They are really hardworking in terms of schoolwork, oftentimes she talks about school.
+
+They are currently on break, and barely appear in the group nowadays.
+## Fun Facts
+- - -
+Did you know...
+- They spend around 9–10 hours ever weekday at school.
+- She plays Phighting.
+## Boundaries
+- - -
+- Use your common sense
+## Stories
+They do not have stories available.
