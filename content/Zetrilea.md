@@ -67,7 +67,8 @@ They are currently on break, and barely appear in the group nowadays.
 Did you know...
 - They spend around 9–10 hours ever weekday at school.
 - She plays Phighting[^1].
-## abilities- - -
+## Boundaries
+- - -
 - Use your common sense
 ## Stories
 They do not have stories available.
