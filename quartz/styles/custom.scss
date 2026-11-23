@@ -139,13 +139,14 @@ table.fandom-infobox td:first-child {
   }
 }
 
-/* Keep horizontal dividers (---) next to the infobox instead of dropping below it */
+/* Keep horizontal dividers (---) next to the infobox with tight spacing */
 article hr {
   clear: none !important;
   width: auto !important;
   overflow: hidden !important;
+  margin-top: 0.6rem !important;
+  margin-bottom: 0.6rem !important;
 }
-
 
 
 /* Custom black & white warning box for Quartz v5 */
